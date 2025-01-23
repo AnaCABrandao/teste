@@ -19,7 +19,7 @@ Teste. <br/>
 <br>
 
 <p align="center">
-  <img alt="Projeto" src=".github/Cover.png" width="100%">
+  <img alt="Projeto" src="https://img.freepik.com/vetores-gratis/fundo-roxo-abstrato_698452-778.jpg?t=st=1737671029~exp=1737674629~hmac=c32e1f82c18c29a8cac2b2d3c98d9430db0494da1be377d25d19d5592ce3a628&w=826" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -35,7 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Teste
 
-- [Acesse o projeto finalizado, online](https://maykbrito.github.io/devlinks)
+- [Acesse o projeto finalizado, online]()
 
 - [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
 
