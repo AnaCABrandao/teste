@@ -19,7 +19,7 @@ Teste. <br/>
 <br>
 
 <p align="center">
-  <img alt="Projeto" src="https://img.freepik.com/vetores-gratis/fundo-roxo-abstrato_698452-778.jpg?t=st=1737671029~exp=1737674629~hmac=c32e1f82c18c29a8cac2b2d3c98d9430db0494da1be377d25d19d5592ce3a628&w=826" width="100%">
+  <img alt="Projeto" src="https://camo.githubusercontent.com/a76f59c324aac4efc15ec6dfc810195e7a6b1a0a88e7cd00d5c85a16f6f8f7a7/68747470733a2f2f696d672e6672656570696b2e636f6d2f7665746f7265732d6772617469732f66756e646f2d726f786f2d616273747261746f5f3639383435322d3737382e6a70673f743d73743d313733373637313032397e6578703d313733373637343632397e686d61633d6333326531663832633138633239613863616332623264336339386439343330646230343934646131626533373764323564313964353539326365336136323826773d383236" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -35,9 +35,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Teste
 
-- [Acesse o projeto finalizado, online]()
-
-- [Assistir aulas](https://lp.rocketseat.com.br/devlinks/inscricao?utm_source=github&utm_medium=descricao&utm_campaign=capture-devlinks&utm_term=organic&utm_content=descricao-github-mayk-brito)
+- [Acesse o projeto finalizado, online](http://127.0.0.1:5500/index.html)
 
 ## 🔖 Layout
 
